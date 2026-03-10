@@ -33,8 +33,8 @@
 
 </div>
 
-<img src="scepai1.png" width="500" height="800">
-<img src="scepai2.jpg" width="500" height="800">
+<img width="506" height="850" alt="scepai2" src="https://github.com/user-attachments/assets/6ad7d7bf-c11e-44dd-aac4-df4c9c161b5e" />
+<img width="506" height="850" alt="scepai1" src="https://github.com/user-attachments/assets/30ec4743-0b7d-4ee5-a55e-493d146da064" />
 
 
 
