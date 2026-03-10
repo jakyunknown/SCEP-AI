@@ -33,6 +33,8 @@
 
 </div>
 
+![SCEP AI demo](Pictures/scepai1.png)
+
 ## ✨ Features
 
 ### 🔐 Core Analysis Engine
