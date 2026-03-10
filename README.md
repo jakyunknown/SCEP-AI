@@ -34,7 +34,7 @@
 </div>
 
 <img src="https://github.com/user-attachments/assets/571435ac-bdde-4c6f-9374-d9030d505435" alt="Alt text" width="500" />
-<img width="506" height="850" alt="scepai2" src="https://github.com/user-attachments/assets/e6947653-6d47-44ff-9cf4-fc589b01a72d" />
+<img width="500" alt="scepai2" src="https://github.com/user-attachments/assets/e6947653-6d47-44ff-9cf4-fc589b01a72d" />
 
 ## ✨ Features
 
