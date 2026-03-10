@@ -33,7 +33,7 @@
 </div>
 
 
-<img src="https://github.com/user-attachments/assets/f6333821-081b-4750-895f-7cba462bde42" alt="scepai1" width="317"/> <img src="https://github.com/user-attachments/assets/99b33c53-17a0-40d4-8078-d940786ae693" alt="scepai2" width="304"/><img width="312" alt="scepai3" src="https://github.com/user-attachments/assets/9eca69d4-08cc-4c3e-a7a6-4aa45156f63c" />
+<img src="https://github.com/user-attachments/assets/f6333821-081b-4750-895f-7cba462bde42" alt="scepai1" width="317"/> <img src="https://github.com/user-attachments/assets/99b33c53-17a0-40d4-8078-d940786ae693" alt="scepai2" width="303"/><img width="307" alt="scepai3" src="https://github.com/user-attachments/assets/9eca69d4-08cc-4c3e-a7a6-4aa45156f63c" />
 
 
 
