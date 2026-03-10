@@ -30,12 +30,15 @@
 <br/>
 
 ---
-
 </div>
 
+<img width="506" height="850" alt="scepai2" src="https://github.com/user-attachments/assets/99b33c53-17a0-40d4-8078-d940786ae693" />
+<img width="506" height="850" alt="scepai1" src="https://github.com/user-attachments/assets/f6333821-081b-4750-895f-7cba462bde42" />
+
+
 <div align="center">
-  <img src="scepai1.jpg" alt="scepai1" width="506"/>
-  <img src="scepai2.jpg" alt="scepai2" width="506"/>
+  <img src="scepai1.jpg" alt="scepai1" width="506" height="850"/>
+  <img src="scepai2.jpg" alt="scepai2" width="506" height="850"/>
 </div>
 
 
