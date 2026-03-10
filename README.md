@@ -33,9 +33,6 @@
 
 </div>
 
-<img alt="scepai1.png" src="https://github.com/user-attachments/assets/571435ac-bdde-4c6f-9374-d9030d505435"  />
-<img alt="scepai2.png" src="https://github.com/user-attachments/assets/e6947653-6d47-44ff-9cf4-fc589b01a72d" />
-
 <img src="scepai1.png" width="500" height="800">
 <img src="scepai2.jpg" width="500" height="800">
 
