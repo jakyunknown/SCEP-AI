@@ -33,7 +33,7 @@
 
 </div>
 
-[(Pictures/scepai1.png)]
+![](Pictures/scepai1.png)
 
 ## ✨ Features
 
