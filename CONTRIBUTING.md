@@ -402,6 +402,6 @@ No question is too small. We were all beginners once.
   ╚═══════════════════════════════════════════════════════╝
 ```
 
-*Made with ❤️ by the SCEP-AI community*
+*Made by Judah C.*
 
 </div>
